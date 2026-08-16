@@ -1,0 +1,10 @@
+codi_eoi,nom_estacio,tipus_estacio,area_urbana,municipi,nom_comarca,altitud,latitud,longitud
+08019060,Barcelona (Navas),traffic,urban,Barcelona,Barcelonès,25,41.41591,2.187094
+08019054,Barcelona (Parc Vall Hebron),background,urban,Barcelona,Barcelonès,136,41.42611,2.148002
+08019044,Barcelona (Gràcia - Sant Gervasi),traffic,urban,Barcelona,Barcelonès,57,41.398724,2.153399
+08019042,Barcelona (Sants),background,urban,Barcelona,Barcelonès,35,41.37878,2.133099
+08019050,Barcelona (Ciutadella),background,urban,Barcelona,Barcelonès,7,41.386406,2.187398
+08019004,Barcelona (Poblenou),background,urban,Barcelona,Barcelonès,3,41.40388,2.204501
+08019043,Barcelona (Eixample),traffic,urban,Barcelona,Barcelonès,26,41.385315,2.1538
+08019058,Barcelona (Observatori Fabra),background,suburban,Barcelona,Barcelonès,415,41.41843,2.123897
+08019057,Barcelona (Palau Reial),background,urban,Barcelona,Barcelonès,81,41.38749,2.1152
